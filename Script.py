@@ -15,7 +15,7 @@ Mʏ Nᴀᴍᴇ Is {bot}.
 ⚡️ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/MeAwara>ꜱᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/MeAwara>𓆩Ꭺᴡᴀʀᴀ𓆪ꪾ</a>
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/MeAwara>𓆩Ꭺᴡᴀʀᴀ𓆪ꪾ</a></b>"""
 
