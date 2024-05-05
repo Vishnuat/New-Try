@@ -14,6 +14,10 @@
             "description": "Your bot token.",
             "required": true
         },
+        "MUST_JOIN": {
+            "description": "Username of a group or channel for which you want to set force sub.(without @)",
+            "required": true      
+        },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
             "required": true
