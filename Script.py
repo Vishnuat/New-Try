@@ -3,21 +3,21 @@ class script(object):
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ</b>"""
+⚡️ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ ♨️ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ 😁</b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
-✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
-✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
-✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
+👨‍💻 Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Rohesh_Gavit>ʀᴏʜᴇsʜ</a>
+🌐 Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
+📂 Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
+☄️ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
+⚡️ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/officialfightclub111>ꜱᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/Rohesh_Gavit>ʀᴏʜᴇsʜ </a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -28,7 +28,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/mkn_bots_updates/1 https://t.me/mkn_bots_updates/10</code>"""
+</code>/batch https://t.me/Rohrsh_bots/1 https://t.me/Rohrsh_bots/10</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
@@ -127,28 +127,28 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
 
 
     STATUS_TXT = """<b>◉ ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ: <code>{}</code>
-◉ ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ: <code>{}</code>  
-◉ ᴛᴏᴛᴀʟ ᴄʜᴀᴛꜱ: <code>{}</code>
-◉ ᴜꜱᴇᴅ ᴅʙ ꜱɪᴢᴇ: <code>{}</code>
-◉ ꜰᴇᴇᴇ ᴅʙ ꜱɪᴢᴇ: <code>{}</code></b>"""
+👨‍👨‍👧‍👦 ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ: <code>{}</code>  
+👩‍🎤 ᴛᴏᴛᴀʟ ᴄʜᴀᴛꜱ: <code>{}</code>
+🗄️ ᴜꜱᴇᴅ ᴅʙ ꜱɪᴢᴇ: <code>{}</code>
+🗄️ ꜰᴇᴇᴇ ᴅʙ ꜱɪᴢᴇ: <code>{}</code></b>"""
 
     LOG_TEXT_G = """<b>#ɴᴇᴡ_ɢʀᴏᴜᴩ
 
-◉ ɢʀᴏᴜᴩ: {a}
-◉ ɢ-ɪᴅ: <code>{b}</code>
-◉ ʟɪɴᴋ: @{c}
-◉ ᴍᴇᴍʙᴇʀꜱ: <code>{d}</code>
-◉ ᴀᴅᴅᴇᴅ ʙʏ: {e}
+👩‍🎤 ɢʀᴏᴜᴩ: {a}
+👩‍🎤 ɢ-ɪᴅ: <code>{b}</code>
+📎 ʟɪɴᴋ: @{c}
+👨‍👨‍👧‍👦 ᴍᴇᴍʙᴇʀꜱ: <code>{d}</code>
+👨‍💻 ᴀᴅᴅᴇᴅ ʙʏ: {e}
 
-◉ ʙʏ: @{f}</b>"""
+👨‍💻 ʙʏ: @{f}</b>"""
   
     LOG_TEXT_P = """#ɴᴇᴡ_ᴜꜱᴇʀ
     
-◉ ᴜꜱᴇʀ-ɪᴅ: <code>{}</code>
-◉ ᴀᴄᴄ-ɴᴀᴍᴇ: {}
-◉ ᴜꜱᴇʀɴᴀᴍᴇ: @{}
+🦋 ᴜꜱᴇʀ-ɪᴅ: <code>{}</code>
+⚡️ ᴀᴄᴄ-ɴᴀᴍᴇ: {}
+🔻 ᴜꜱᴇʀɴᴀᴍᴇ: @{}
 
-◉ ʙʏ: @{}</b>"""
+👨‍💻 ʙʏ: @{}</b>"""
   
     GROUPMANAGER_TXT = """<b>Hᴇʟᴩ Fᴏʀ GʀᴏᴜᴩMᴀɴᴀɢᴇʀ</b>
 
@@ -233,6 +233,4 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
    
   
- 
-
-
+  
