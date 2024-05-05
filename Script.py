@@ -8,7 +8,7 @@ Mʏ Nᴀᴍᴇ Is {bot}.
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-👨‍💻 Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Rohesh_Gavit>ʀᴏʜᴇsʜ</a>
+👨‍💻 Dᴇᴠᴇʟᴏᴩᴇʀ:<a herf=https://t.me/Rohesh_Gavit>ʀᴏʜᴇsʜ</a>
 🌐 Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 📂 Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ☄️ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
@@ -17,7 +17,7 @@ Mʏ Nᴀᴍᴇ Is {bot}.
     SOURCE_TXT = """<b>NOTE:</b>
 - ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/officialfightclub111>ꜱᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Rohesh_Gavit>ʀᴏʜᴇsʜ </a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/Rohesh_Gavit>ʀᴏʜᴇsʜ</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
