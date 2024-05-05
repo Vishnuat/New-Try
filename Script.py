@@ -8,16 +8,16 @@ Mʏ Nᴀᴍᴇ Is {bot}.
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-👨‍💻 Dᴇᴠᴇʟᴏᴩᴇʀ:<a herf=https://t.me/Rohesh_Gavit>𓆩Ꭺᴡᴀʀᴀ𓆪ꪾ</a>
+👨‍💻 Dᴇᴠᴇʟᴏᴩᴇʀ:<a herf=https://t.me/MeAwara>𓆩Ꭺᴡᴀʀᴀ𓆪ꪾ</a>
 🌐 Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 📂 Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ☄️ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
 ⚡️ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/officialfightclub111>ꜱᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/MeAwara>ꜱᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Rohesh_Gavit>ʀᴏʜᴇsʜ</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/MeAwara>𓆩Ꭺᴡᴀʀᴀ𓆪ꪾ</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -28,7 +28,7 @@ Mʏ Nᴀᴍᴇ Is {bot}.
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/Rohrsh_bots/1 https://t.me/Rohrsh_bots/10</code>"""
+</code>/batch https://t.me/Movies4USupport https://t.me/Movies4UBackupChannel/10</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
