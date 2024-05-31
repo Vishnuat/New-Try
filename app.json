@@ -28,7 +28,7 @@
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "required": false
+            "required": true
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
@@ -80,8 +80,8 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "MKN_BOTZ_DISCUSSION_GROUP",
-            "required": false
+            "value": "Movies4USupport",
+            "required": true
         },
         "IMDB": {
             "description": "Imdb, the view of information when making True/False",
@@ -126,12 +126,12 @@
         "WELCOM_PIC": {
             "description": "Welcome message pic (telegraph link)",
             "value": "",
-            "required": false
+            "required": true
         },
         "WELCOM_TEXT": {
             "description": "your group welcome text keyword({user} = joined use & {chat} = your chat name",
             "value": "Hᴇʏ {user} 💞\nWᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.\n\nꜱʜᴀʀᴇ & ꜱᴜᴩᴩᴏʀᴛ, ʀᴇqᴜᴇꜱᴛ ʏᴏᴜ ᴡᴀɴᴛᴇᴅ ᴍᴏᴠɪᴇꜱ",
-            "required": false
+            "required": true
         },
         "BUTTON_LOCK_TEXT": {
             "description": "button lock text [User = {query}]",
