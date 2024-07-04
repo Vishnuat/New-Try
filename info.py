@@ -11,9 +11,9 @@ def is_enabled(value, default):
 
 
 # PyroClient Setup 
-API_ID = int(environ['27790145'])
-API_HASH = environ['ee0b0a76667495002e67444adf6458f2']
-BOT_TOKEN = environ['7173641636:AAF90Iohmsv9sN4cyyZQSjZruci-xVlzWsU']
+API_ID = int(environ['API_ID'])
+API_HASH = environ['API_HASH']
+BOT_TOKEN = environ['BOT_TOKEN']
 
 # Bot settings
 WEBHOOK = bool(environ.get("WEBHOOK", True)) # for web support on/off
@@ -26,7 +26,7 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001960862288').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
-auth_channel = environ.get('-1002104922264')
+auth_channel = environ.get('AUTH_CHANNEL')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
@@ -73,4 +73,4 @@ FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '')).
 MELCOW_NEW_USERS = is_enabled(environ.get('MELCOW_NEW_USERS', "True"), True)
 PROTECT_CONTENT = is_enabled(environ.get('PROTECT_CONTENT', "False"), False)
 PUBLIC_FILE_STORE = is_enabled(environ.get('PUBLIC_FILE_STORE', "True"), True)
-LOG_MSG = "{} Iꜱ Rᴇsᴛᴀʀᴛᴇᴅ....✨\n\n🗓️ Dᴀᴛᴇ : {}\n⏰ Tɪᴍᴇ : {}\n\n🖥️ Rᴇᴏᴩ: {}\n🉐 Vᴇʀsɪᴏɴ: {}\n🧾 Lɪᴄᴇɴꜱᴇ: {}\n©️ Cᴏᴩʏʀɪɢʜᴛ: {}"
+LOG_MSG = "{} Iꜱ Rᴇsᴛᴀʀᴛᴇᴅ....✨\n\n🗓️ Dᴀᴛᴇ : {}\n⏰ Tɪᴍᴇ : {}\n\n🖥️ Rᴇᴏᴩ: {}\n🉐 Vᴇʀsɪᴏɴ: {}\n🧾 Lɪᴄᴇɴꜱᴇ: {}\n©️ Cᴏᴩʏʀɪɢʜᴛ: {}"v
