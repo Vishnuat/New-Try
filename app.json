@@ -3,7 +3,7 @@
     "description": "The Telegram Autofilter Bot",
     "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
     "keywords": ["Telegram", "auto-filter", "MrMKN"],
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "repository": "https://github.com/Karan9520/PROFESSOR-BOT",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
@@ -61,7 +61,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @MR_LINK_Z ❱ • ────➤\n┣ ▫️ @MRxSERIES\n┣ ▫️ @MalluMovie_Official\n╰─────── • ◆ • ───────➤",
+            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @Movies4USupport ❱ • ────➤\n┣ ▫️ @Movies4UBackupChannel\n┣ ▫️ @Movies4UWorldOfficial\n╰─────── • ◆ • ───────➤",
             "required": false
         },
         "DATABASE_URL": {
@@ -101,7 +101,7 @@
         "IMDB_DELET_TIME": {
             "description": "bot risult aouto delet time in second do to avoid group copyright issue. default is 300 ",
             "value": "300",
-            "required": false  
+            "required": true  
         },
         "SINGLE_BUTTON": {
             "description": "choose b/w single or double buttons https://github.com/Aadhi000/Ajax/issues/22",
@@ -116,12 +116,12 @@
         "FORCE_SUB_TEXT": {
             "description": "custom force sub text (use ** = bold / use ``=  mono)",
             "value": "Sᴏʀʀʏ Bʀᴏ Yᴏᴜʀ Nᴏᴛ Jᴏɪɴᴇᴅ Mʏ Cʜᴀɴɴᴇʟ Sᴏ Pʟᴇᴀsᴇ Cʟɪᴄᴋ Jᴏɪɴ Bᴜᴛᴛᴏɴ Tᴏ Jᴏɪɴ Mʏ Cʜᴀɴɴᴇʟ Aɴᴅ Tʀʏ Aɢᴀɪɴ",
-            "required": True
+            "required": true
         },
         "AUTH_GROUPS": {
             "description": "Group Id. Only work a specific group/ your bot is public use? please just Skip this",
             "value": "",
-            "required": false
+            "required": true
         },
         "WELCOM_PIC": {
             "description": "Welcome message pic (telegraph link)",
@@ -141,12 +141,12 @@
         "PMFILTER": {
             "description": "PM AutoFilter. set True to on / False to off",
             "value": "True",
-            "required": false
+            "required": true
         },
         "G_FILTER": {
             "description": "GlobalFilter set True to on / False to off",
             "value": "True",
-            "required": false
+            "required": true
         },
         "BUTTON_LOCK": {
             "description": "Button alert set True to on / False to off",
