@@ -71,7 +71,7 @@
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB.",
             "value": "Cluster0",
-            "required": false
+            "required": true
         },
         "COLLECTION_NAME": {
             "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
@@ -86,7 +86,7 @@
         "IMDB": {
             "description": "Imdb, the view of information when making True/False",
             "value": "True",
-            "required": false     
+            "required": true     
         },
         "PM_IMDB": {
             "description": "pm Imdb, the view of information when making True/False",
@@ -96,7 +96,7 @@
         "IMDB_TEMPLATE": {
             "description": "Custom IMDB Template",
             "value": "<b>Qᴜᴇʀʏ: {query}</b>\n\n🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>\n🎭 Gᴇɴʀᴇꜱ: {genres}\n📆 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>\n🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10",        
-            "required": false
+            "required": true
         }, 
         "IMDB_DELET_TIME": {
             "description": "bot risult aouto delet time in second do to avoid group copyright issue. default is 300 ",
@@ -111,7 +111,7 @@
         "START_MESSAGE": {
             "description": "bot start message text [ {user} = bot startd user name {bot} = your bot name",
             "value": "<b>✨ Hᴇʟʟᴏ {user}.\n\nMʏ Nᴀᴍᴇ Is {bot}.\n\nI Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ</b>",
-            "required": false
+            "required": true
         },       
         "FORCE_SUB_TEXT": {
             "description": "custom force sub text (use ** = bold / use ``=  mono)",
